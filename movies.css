@@ -1,0 +1,42 @@
+body
+{
+    border: thin dashed gray;
+    margin: 0;
+    padding: 50px;
+    background-color: navy;
+}
+header, h1, h2, h3, nav, main, footer
+{
+    background-color: white;
+    padding: 10px;
+}
+p, dl, div, ul
+{
+    font-size: 25px;
+}
+h2, h3
+{
+    text-align: center;
+    background-color: navy;
+    color: white;
+    height: 3opx;
+}
+.box
+{
+    border: medium groove black;
+    background-color: silver;
+    width: 255px;
+    margin: 5px;
+}
+h1
+{
+    background-color: navy;
+    color: white;
+    height: 100px;
+    padding-bottom: 0;
+    padding-top: 50px;
+}
+span
+{
+    color: white;
+}
