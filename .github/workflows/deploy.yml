@@ -18,7 +18,7 @@ jobs:
 
       - name: Rename file for deployment
         # This renames your file to index.html ONLY during the build
-        run: mv https://github.com/mrW-8/media.github.io/blob/main/mainPage.html index.html 
+        run: mv mainPage.html index.html 
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
