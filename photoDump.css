@@ -1,0 +1,41 @@
+img
+{
+    width: 300px;
+    height: 300px;
+}
+body
+{
+    border: thin dashed gray;
+    margin: 0;
+    padding: 50px;
+    background-color: navy;
+    text-align: center;
+}
+header, div, h2, h3, nav, main, footer
+{
+    background-color: white;
+    padding: 10px;
+}
+p, dl, ul
+{
+    font-size: 25px;
+}
+h1, h2, h3
+{
+    text-align: center;
+    background-color: navy;
+    color: white;
+    height: 30px;
+}
+.box
+{
+    border: medium groove black;
+    background-color: silver;
+    width: 255px;
+    margin: 5px;
+}
+a
+{
+    text-align: left;
+    color: navy;
+}
